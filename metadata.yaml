@@ -1,7 +1,5 @@
 homepage: "https://pinlyx.com"
 documentation: "https://github.com/Pinlyx/gtm-pinlyx-live-chat/blob/main/README.md"
 versions:
-  # Fill in "sha" after the first push: the full 40 character commit SHA of the
-  # commit that contains this template.tpl. Add each new release on top.
-  - sha: ""
+  - sha: 0a2b8cecc81c1e8aa2d54226628759bde2f9c396
     changeNotes: Initial release. Loads the Pinlyx live chat widget and, optionally, Pinlyx Live Visitors analytics.
