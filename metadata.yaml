@@ -1,5 +1,5 @@
 homepage: "https://pinlyx.com"
 documentation: "https://github.com/Pinlyx/gtm-pinlyx-live-chat/blob/main/README.md"
 versions:
-  - sha: 0a2b8cecc81c1e8aa2d54226628759bde2f9c396
-    changeNotes: Initial release. Loads the Pinlyx live chat widget and, optionally, Pinlyx Live Visitors analytics.
+  - sha: 6b5879f41a06d0625c6272604d62ce46376b335e
+    changeNotes: Initial gallery release. Loads the Pinlyx live chat widget and, optionally, Pinlyx Live Visitors analytics.
